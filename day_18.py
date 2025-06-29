@@ -1,4 +1,4 @@
-# Challenge Day 17
+# Challenge Day 18
 
 # Enforce a naming convention (CamelCase) using a metaclass
 
